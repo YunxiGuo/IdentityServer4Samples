@@ -1,0 +1,11 @@
+H:\VS Pro\IdentityServerSample\ThirdLibrariyDemo\bin\Debug\netcoreapp2.1\ThirdLibrariyDemo.deps.json
+H:\VS Pro\IdentityServerSample\ThirdLibrariyDemo\bin\Debug\netcoreapp2.1\ThirdLibrariyDemo.runtimeconfig.json
+H:\VS Pro\IdentityServerSample\ThirdLibrariyDemo\bin\Debug\netcoreapp2.1\ThirdLibrariyDemo.runtimeconfig.dev.json
+H:\VS Pro\IdentityServerSample\ThirdLibrariyDemo\bin\Debug\netcoreapp2.1\ThirdLibrariyDemo.dll
+H:\VS Pro\IdentityServerSample\ThirdLibrariyDemo\obj\Debug\netcoreapp2.1\ThirdLibrariyDemo.csproj.CoreCompileInputs.cache
+H:\VS Pro\IdentityServerSample\ThirdLibrariyDemo\obj\Debug\netcoreapp2.1\ThirdLibrariyDemo.AssemblyInfoInputs.cache
+H:\VS Pro\IdentityServerSample\ThirdLibrariyDemo\obj\Debug\netcoreapp2.1\ThirdLibrariyDemo.AssemblyInfo.cs
+H:\VS Pro\IdentityServerSample\ThirdLibrariyDemo\bin\Debug\netcoreapp2.1\ThirdLibrariyDemo.pdb
+H:\VS Pro\IdentityServerSample\ThirdLibrariyDemo\obj\Debug\netcoreapp2.1\ThirdLibrariyDemo.csprojAssemblyReference.cache
+H:\VS Pro\IdentityServerSample\ThirdLibrariyDemo\obj\Debug\netcoreapp2.1\ThirdLibrariyDemo.dll
+H:\VS Pro\IdentityServerSample\ThirdLibrariyDemo\obj\Debug\netcoreapp2.1\ThirdLibrariyDemo.pdb
