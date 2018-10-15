@@ -1,0 +1,11 @@
+H:\github\IdentityServer4Samples\ThirdLibrariyDemo\bin\Debug\netcoreapp2.1\Client.deps.json
+H:\github\IdentityServer4Samples\ThirdLibrariyDemo\bin\Debug\netcoreapp2.1\Client.runtimeconfig.json
+H:\github\IdentityServer4Samples\ThirdLibrariyDemo\bin\Debug\netcoreapp2.1\Client.runtimeconfig.dev.json
+H:\github\IdentityServer4Samples\ThirdLibrariyDemo\bin\Debug\netcoreapp2.1\Client.dll
+H:\github\IdentityServer4Samples\ThirdLibrariyDemo\bin\Debug\netcoreapp2.1\Client.pdb
+H:\github\IdentityServer4Samples\ThirdLibrariyDemo\obj\Debug\netcoreapp2.1\Client.csprojAssemblyReference.cache
+H:\github\IdentityServer4Samples\ThirdLibrariyDemo\obj\Debug\netcoreapp2.1\Client.csproj.CoreCompileInputs.cache
+H:\github\IdentityServer4Samples\ThirdLibrariyDemo\obj\Debug\netcoreapp2.1\Client.AssemblyInfoInputs.cache
+H:\github\IdentityServer4Samples\ThirdLibrariyDemo\obj\Debug\netcoreapp2.1\Client.AssemblyInfo.cs
+H:\github\IdentityServer4Samples\ThirdLibrariyDemo\obj\Debug\netcoreapp2.1\Client.dll
+H:\github\IdentityServer4Samples\ThirdLibrariyDemo\obj\Debug\netcoreapp2.1\Client.pdb

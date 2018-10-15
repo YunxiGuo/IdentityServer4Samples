@@ -1,0 +1,11 @@
+H:\github\IdentityServer4Samples\IdentityServerCenter\bin\Debug\netcoreapp2.1\IdentityServer.deps.json
+H:\github\IdentityServer4Samples\IdentityServerCenter\bin\Debug\netcoreapp2.1\IdentityServer.runtimeconfig.json
+H:\github\IdentityServer4Samples\IdentityServerCenter\bin\Debug\netcoreapp2.1\IdentityServer.runtimeconfig.dev.json
+H:\github\IdentityServer4Samples\IdentityServerCenter\bin\Debug\netcoreapp2.1\IdentityServer.dll
+H:\github\IdentityServer4Samples\IdentityServerCenter\bin\Debug\netcoreapp2.1\IdentityServer.pdb
+H:\github\IdentityServer4Samples\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServer.csprojAssemblyReference.cache
+H:\github\IdentityServer4Samples\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServer.csproj.CoreCompileInputs.cache
+H:\github\IdentityServer4Samples\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServer.AssemblyInfoInputs.cache
+H:\github\IdentityServer4Samples\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServer.AssemblyInfo.cs
+H:\github\IdentityServer4Samples\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServer.dll
+H:\github\IdentityServer4Samples\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServer.pdb

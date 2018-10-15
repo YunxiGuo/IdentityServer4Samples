@@ -1,0 +1,11 @@
+H:\github\IdentityServer4Samples\IdentityServerCredentialApi\bin\Debug\netcoreapp2.1\Api.deps.json
+H:\github\IdentityServer4Samples\IdentityServerCredentialApi\bin\Debug\netcoreapp2.1\Api.runtimeconfig.json
+H:\github\IdentityServer4Samples\IdentityServerCredentialApi\bin\Debug\netcoreapp2.1\Api.runtimeconfig.dev.json
+H:\github\IdentityServer4Samples\IdentityServerCredentialApi\bin\Debug\netcoreapp2.1\Api.dll
+H:\github\IdentityServer4Samples\IdentityServerCredentialApi\bin\Debug\netcoreapp2.1\Api.pdb
+H:\github\IdentityServer4Samples\IdentityServerCredentialApi\obj\Debug\netcoreapp2.1\Api.csprojAssemblyReference.cache
+H:\github\IdentityServer4Samples\IdentityServerCredentialApi\obj\Debug\netcoreapp2.1\Api.csproj.CoreCompileInputs.cache
+H:\github\IdentityServer4Samples\IdentityServerCredentialApi\obj\Debug\netcoreapp2.1\Api.AssemblyInfoInputs.cache
+H:\github\IdentityServer4Samples\IdentityServerCredentialApi\obj\Debug\netcoreapp2.1\Api.AssemblyInfo.cs
+H:\github\IdentityServer4Samples\IdentityServerCredentialApi\obj\Debug\netcoreapp2.1\Api.dll
+H:\github\IdentityServer4Samples\IdentityServerCredentialApi\obj\Debug\netcoreapp2.1\Api.pdb
