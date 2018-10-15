@@ -21,9 +21,9 @@ namespace IdentityServerCredentialApi
             services.AddAuthentication("Bearer")
                 .AddIdentityServerAuthentication(option =>
                 {
-                    option.Authority = "http://localhost:5000";
+                    option.Authority = "http://localhost:5100";
                     option.RequireHttpsMetadata = false;
-                    option.ApiName = "api";
+                    option.ApiName = "api1";
                 });
                 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);

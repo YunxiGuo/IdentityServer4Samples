@@ -11569,11 +11569,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\VS Pro\\IdentityServerSample\\IdentityServerCenter\\IdentityServerCenter.csproj",
+      "projectUniqueName": "H:\\github\\IdentityServer4Samples\\IdentityServerCenter\\IdentityServerCenter.csproj",
       "projectName": "IdentityServerCenter",
-      "projectPath": "H:\\VS Pro\\IdentityServerSample\\IdentityServerCenter\\IdentityServerCenter.csproj",
+      "projectPath": "H:\\github\\IdentityServer4Samples\\IdentityServerCenter\\IdentityServerCenter.csproj",
       "packagesPath": "C:\\Users\\guoyunxi\\.nuget\\packages\\",
-      "outputPath": "H:\\VS Pro\\IdentityServerSample\\IdentityServerCenter\\obj\\",
+      "outputPath": "H:\\github\\IdentityServer4Samples\\IdentityServerCenter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

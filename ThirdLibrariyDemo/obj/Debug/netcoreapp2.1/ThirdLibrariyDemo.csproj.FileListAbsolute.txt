@@ -9,3 +9,14 @@ H:\VS Pro\IdentityServerSample\ThirdLibrariyDemo\bin\Debug\netcoreapp2.1\ThirdLi
 H:\VS Pro\IdentityServerSample\ThirdLibrariyDemo\obj\Debug\netcoreapp2.1\ThirdLibrariyDemo.csprojAssemblyReference.cache
 H:\VS Pro\IdentityServerSample\ThirdLibrariyDemo\obj\Debug\netcoreapp2.1\ThirdLibrariyDemo.dll
 H:\VS Pro\IdentityServerSample\ThirdLibrariyDemo\obj\Debug\netcoreapp2.1\ThirdLibrariyDemo.pdb
+H:\github\IdentityServer4Samples\ThirdLibrariyDemo\bin\Debug\netcoreapp2.1\ThirdLibrariyDemo.deps.json
+H:\github\IdentityServer4Samples\ThirdLibrariyDemo\bin\Debug\netcoreapp2.1\ThirdLibrariyDemo.runtimeconfig.json
+H:\github\IdentityServer4Samples\ThirdLibrariyDemo\bin\Debug\netcoreapp2.1\ThirdLibrariyDemo.runtimeconfig.dev.json
+H:\github\IdentityServer4Samples\ThirdLibrariyDemo\bin\Debug\netcoreapp2.1\ThirdLibrariyDemo.dll
+H:\github\IdentityServer4Samples\ThirdLibrariyDemo\bin\Debug\netcoreapp2.1\ThirdLibrariyDemo.pdb
+H:\github\IdentityServer4Samples\ThirdLibrariyDemo\obj\Debug\netcoreapp2.1\ThirdLibrariyDemo.csprojAssemblyReference.cache
+H:\github\IdentityServer4Samples\ThirdLibrariyDemo\obj\Debug\netcoreapp2.1\ThirdLibrariyDemo.csproj.CoreCompileInputs.cache
+H:\github\IdentityServer4Samples\ThirdLibrariyDemo\obj\Debug\netcoreapp2.1\ThirdLibrariyDemo.AssemblyInfoInputs.cache
+H:\github\IdentityServer4Samples\ThirdLibrariyDemo\obj\Debug\netcoreapp2.1\ThirdLibrariyDemo.AssemblyInfo.cs
+H:\github\IdentityServer4Samples\ThirdLibrariyDemo\obj\Debug\netcoreapp2.1\ThirdLibrariyDemo.dll
+H:\github\IdentityServer4Samples\ThirdLibrariyDemo\obj\Debug\netcoreapp2.1\ThirdLibrariyDemo.pdb

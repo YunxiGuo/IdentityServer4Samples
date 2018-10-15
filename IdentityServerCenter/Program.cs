@@ -19,6 +19,7 @@ namespace IdentityServerCenter
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
+                .UseUrls("http://localhsot:5100")
                 .UseStartup<Startup>();
     }
 }

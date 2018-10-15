@@ -12,3 +12,17 @@ H:\VS Pro\IdentityServerSample\IdentityServerCenter\obj\Debug\netcoreapp2.1\Iden
 H:\VS Pro\IdentityServerSample\IdentityServerCenter\bin\Debug\netcoreapp2.1\IdentityServerCenter.pdb
 H:\VS Pro\IdentityServerSample\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServerCenter.dll
 H:\VS Pro\IdentityServerSample\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServerCenter.pdb
+H:\github\IdentityServer4Samples\IdentityServerCenter\bin\Debug\netcoreapp2.1\IdentityServerCenter.deps.json
+H:\github\IdentityServer4Samples\IdentityServerCenter\bin\Debug\netcoreapp2.1\IdentityServerCenter.runtimeconfig.json
+H:\github\IdentityServer4Samples\IdentityServerCenter\bin\Debug\netcoreapp2.1\IdentityServerCenter.runtimeconfig.dev.json
+H:\github\IdentityServer4Samples\IdentityServerCenter\bin\Debug\netcoreapp2.1\IdentityServerCenter.dll
+H:\github\IdentityServer4Samples\IdentityServerCenter\bin\Debug\netcoreapp2.1\IdentityServerCenter.pdb
+H:\github\IdentityServer4Samples\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServerCenter.csprojAssemblyReference.cache
+H:\github\IdentityServer4Samples\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServerCenter.csproj.CoreCompileInputs.cache
+H:\github\IdentityServer4Samples\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServerCenter.RazorAssemblyInfo.cache
+H:\github\IdentityServer4Samples\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServerCenter.RazorAssemblyInfo.cs
+H:\github\IdentityServer4Samples\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServerCenter.AssemblyInfoInputs.cache
+H:\github\IdentityServer4Samples\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServerCenter.AssemblyInfo.cs
+H:\github\IdentityServer4Samples\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServerCenter.RazorTargetAssemblyInfo.cache
+H:\github\IdentityServer4Samples\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServerCenter.dll
+H:\github\IdentityServer4Samples\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServerCenter.pdb

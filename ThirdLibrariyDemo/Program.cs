@@ -10,13 +10,13 @@ namespace ThirdLibrariyDemo
     {
         static void Main(string[] args)
         {
-            var dico = DiscoveryClient.GetAsync("http://localhost:5000").Result;
+            var dico = DiscoveryClient.GetAsync("http://localhost:5100").GetAwaiter().GetResult();
             if (dico.IsError)
             {
                 Console.WriteLine(dico.IsError);
             }
             var tockenClient = new TokenClient(dico.TokenEndpoint,"client","secret");
-            var tockenResponse = tockenClient.RequestClientCredentialsAsync("api").Result;
+            var tockenResponse = tockenClient.RequestClientCredentialsAsync("api1").GetAwaiter().GetResult();
             if (!tockenResponse.IsError)
             {
                 Console.WriteLine(tockenResponse.AccessToken);
@@ -27,7 +27,7 @@ namespace ThirdLibrariyDemo
             }
             var httpClient = new HttpClient();
             httpClient.SetBearerToken(tockenResponse.AccessToken);
-            var response = httpClient.GetAsync("http://localhost:5001/api/values").Result;
+            var response = httpClient.GetAsync("http://localhost:5200/api/values").GetAwaiter().GetResult();
             if (response.IsSuccessStatusCode)
             {
                 Console.WriteLine(response.Content.ReadAsStringAsync().Result);
