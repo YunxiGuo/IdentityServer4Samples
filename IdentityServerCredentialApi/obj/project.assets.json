@@ -11596,11 +11596,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\github\\IdentityServer4Samples\\IdentityServerCredentialApi\\IdentityServerCredentialApi.csproj",
-      "projectName": "IdentityServerCredentialApi",
-      "projectPath": "H:\\github\\IdentityServer4Samples\\IdentityServerCredentialApi\\IdentityServerCredentialApi.csproj",
+      "projectUniqueName": "D:\\MyGitLab\\IdentityServer4Samples\\IdentityServerCredentialApi\\Api.csproj",
+      "projectName": "Api",
+      "projectPath": "D:\\MyGitLab\\IdentityServer4Samples\\IdentityServerCredentialApi\\Api.csproj",
       "packagesPath": "C:\\Users\\guoyunxi\\.nuget\\packages\\",
-      "outputPath": "H:\\github\\IdentityServer4Samples\\IdentityServerCredentialApi\\obj\\",
+      "outputPath": "D:\\MyGitLab\\IdentityServer4Samples\\IdentityServerCredentialApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

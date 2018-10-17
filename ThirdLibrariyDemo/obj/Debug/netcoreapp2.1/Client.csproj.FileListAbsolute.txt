@@ -9,3 +9,14 @@ H:\github\IdentityServer4Samples\ThirdLibrariyDemo\obj\Debug\netcoreapp2.1\Clien
 H:\github\IdentityServer4Samples\ThirdLibrariyDemo\obj\Debug\netcoreapp2.1\Client.AssemblyInfo.cs
 H:\github\IdentityServer4Samples\ThirdLibrariyDemo\obj\Debug\netcoreapp2.1\Client.dll
 H:\github\IdentityServer4Samples\ThirdLibrariyDemo\obj\Debug\netcoreapp2.1\Client.pdb
+D:\MyGitLab\IdentityServer4Samples\ThirdLibrariyDemo\bin\Debug\netcoreapp2.1\Client.deps.json
+D:\MyGitLab\IdentityServer4Samples\ThirdLibrariyDemo\bin\Debug\netcoreapp2.1\Client.runtimeconfig.json
+D:\MyGitLab\IdentityServer4Samples\ThirdLibrariyDemo\bin\Debug\netcoreapp2.1\Client.runtimeconfig.dev.json
+D:\MyGitLab\IdentityServer4Samples\ThirdLibrariyDemo\bin\Debug\netcoreapp2.1\Client.dll
+D:\MyGitLab\IdentityServer4Samples\ThirdLibrariyDemo\bin\Debug\netcoreapp2.1\Client.pdb
+D:\MyGitLab\IdentityServer4Samples\ThirdLibrariyDemo\obj\Debug\netcoreapp2.1\Client.csprojAssemblyReference.cache
+D:\MyGitLab\IdentityServer4Samples\ThirdLibrariyDemo\obj\Debug\netcoreapp2.1\Client.csproj.CoreCompileInputs.cache
+D:\MyGitLab\IdentityServer4Samples\ThirdLibrariyDemo\obj\Debug\netcoreapp2.1\Client.AssemblyInfoInputs.cache
+D:\MyGitLab\IdentityServer4Samples\ThirdLibrariyDemo\obj\Debug\netcoreapp2.1\Client.AssemblyInfo.cs
+D:\MyGitLab\IdentityServer4Samples\ThirdLibrariyDemo\obj\Debug\netcoreapp2.1\Client.dll
+D:\MyGitLab\IdentityServer4Samples\ThirdLibrariyDemo\obj\Debug\netcoreapp2.1\Client.pdb

@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using IdentityServer4.Models;
 
-namespace IdentityServerCenter
+namespace IdentityServer
 {
     public class Config
     {
@@ -27,7 +27,7 @@ namespace IdentityServerCenter
                     AllowedGrantTypes=GrantTypes.ClientCredentials,
                     ClientSecrets=
                     {
-                        new Secret("secrect")
+                        new Secret("secret".Sha256())
                     },
                     AllowedScopes={"api1"}
                 }

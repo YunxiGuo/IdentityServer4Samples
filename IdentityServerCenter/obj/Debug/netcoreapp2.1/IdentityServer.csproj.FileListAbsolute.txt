@@ -9,3 +9,17 @@ H:\github\IdentityServer4Samples\IdentityServerCenter\obj\Debug\netcoreapp2.1\Id
 H:\github\IdentityServer4Samples\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServer.AssemblyInfo.cs
 H:\github\IdentityServer4Samples\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServer.dll
 H:\github\IdentityServer4Samples\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServer.pdb
+D:\MyGitLab\IdentityServer4Samples\IdentityServerCenter\bin\Debug\netcoreapp2.1\IdentityServer.deps.json
+D:\MyGitLab\IdentityServer4Samples\IdentityServerCenter\bin\Debug\netcoreapp2.1\IdentityServer.runtimeconfig.json
+D:\MyGitLab\IdentityServer4Samples\IdentityServerCenter\bin\Debug\netcoreapp2.1\IdentityServer.runtimeconfig.dev.json
+D:\MyGitLab\IdentityServer4Samples\IdentityServerCenter\bin\Debug\netcoreapp2.1\IdentityServer.dll
+D:\MyGitLab\IdentityServer4Samples\IdentityServerCenter\bin\Debug\netcoreapp2.1\IdentityServer.pdb
+D:\MyGitLab\IdentityServer4Samples\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServer.csprojAssemblyReference.cache
+D:\MyGitLab\IdentityServer4Samples\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServer.csproj.CoreCompileInputs.cache
+D:\MyGitLab\IdentityServer4Samples\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServer.RazorAssemblyInfo.cache
+D:\MyGitLab\IdentityServer4Samples\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServer.RazorAssemblyInfo.cs
+D:\MyGitLab\IdentityServer4Samples\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServer.AssemblyInfoInputs.cache
+D:\MyGitLab\IdentityServer4Samples\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServer.AssemblyInfo.cs
+D:\MyGitLab\IdentityServer4Samples\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServer.RazorTargetAssemblyInfo.cache
+D:\MyGitLab\IdentityServer4Samples\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServer.dll
+D:\MyGitLab\IdentityServer4Samples\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServer.pdb

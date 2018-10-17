@@ -9,3 +9,17 @@ H:\github\IdentityServer4Samples\IdentityServerCredentialApi\obj\Debug\netcoreap
 H:\github\IdentityServer4Samples\IdentityServerCredentialApi\obj\Debug\netcoreapp2.1\Api.AssemblyInfo.cs
 H:\github\IdentityServer4Samples\IdentityServerCredentialApi\obj\Debug\netcoreapp2.1\Api.dll
 H:\github\IdentityServer4Samples\IdentityServerCredentialApi\obj\Debug\netcoreapp2.1\Api.pdb
+D:\MyGitLab\IdentityServer4Samples\IdentityServerCredentialApi\bin\Debug\netcoreapp2.1\Api.deps.json
+D:\MyGitLab\IdentityServer4Samples\IdentityServerCredentialApi\bin\Debug\netcoreapp2.1\Api.runtimeconfig.json
+D:\MyGitLab\IdentityServer4Samples\IdentityServerCredentialApi\bin\Debug\netcoreapp2.1\Api.runtimeconfig.dev.json
+D:\MyGitLab\IdentityServer4Samples\IdentityServerCredentialApi\bin\Debug\netcoreapp2.1\Api.dll
+D:\MyGitLab\IdentityServer4Samples\IdentityServerCredentialApi\bin\Debug\netcoreapp2.1\Api.pdb
+D:\MyGitLab\IdentityServer4Samples\IdentityServerCredentialApi\obj\Debug\netcoreapp2.1\Api.csprojAssemblyReference.cache
+D:\MyGitLab\IdentityServer4Samples\IdentityServerCredentialApi\obj\Debug\netcoreapp2.1\Api.csproj.CoreCompileInputs.cache
+D:\MyGitLab\IdentityServer4Samples\IdentityServerCredentialApi\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cache
+D:\MyGitLab\IdentityServer4Samples\IdentityServerCredentialApi\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cs
+D:\MyGitLab\IdentityServer4Samples\IdentityServerCredentialApi\obj\Debug\netcoreapp2.1\Api.AssemblyInfoInputs.cache
+D:\MyGitLab\IdentityServer4Samples\IdentityServerCredentialApi\obj\Debug\netcoreapp2.1\Api.AssemblyInfo.cs
+D:\MyGitLab\IdentityServer4Samples\IdentityServerCredentialApi\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cache
+D:\MyGitLab\IdentityServer4Samples\IdentityServerCredentialApi\obj\Debug\netcoreapp2.1\Api.dll
+D:\MyGitLab\IdentityServer4Samples\IdentityServerCredentialApi\obj\Debug\netcoreapp2.1\Api.pdb

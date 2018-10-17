@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 using IdentityModel.Client;
 using Newtonsoft.Json.Linq;
 
-namespace ThirdLibrariyDemo
+namespace Client
 {
     class Program
     {
@@ -14,63 +14,31 @@ namespace ThirdLibrariyDemo
             if (dico.IsError)
             {
                 Console.WriteLine(dico.IsError);
+                return;
             }
             var tockenClient = new TokenClient(dico.TokenEndpoint,"client","secret");
             var tockenResponse = tockenClient.RequestClientCredentialsAsync("api1").GetAwaiter().GetResult();
-            if (!tockenResponse.IsError)
+            if (tockenResponse.IsError)
             {
-                Console.WriteLine(tockenResponse.AccessToken);
+                Console.WriteLine(tockenResponse.Error);
+                return;
             }
-            else
-            {
-                Console.WriteLine(tockenResponse.IsError);
-            }
+            Console.WriteLine(tockenResponse.AccessToken);
             var httpClient = new HttpClient();
             httpClient.SetBearerToken(tockenResponse.AccessToken);
             var response = httpClient.GetAsync("http://localhost:5200/api/values").GetAwaiter().GetResult();
-            if (response.IsSuccessStatusCode)
+            if (!response.IsSuccessStatusCode)
             {
-                Console.WriteLine(response.Content.ReadAsStringAsync().Result);
+                Console.WriteLine(response.StatusCode);
+            }
+            else
+            {
+                var content = response.Content.ReadAsStringAsync().GetAwaiter().GetResult();
+                Console.WriteLine(JArray.Parse(content));
             }
 
             //MainAsync().Wait();
             Console.ReadKey();
-        }
-
-        private static async Task MainAsync()
-        {
-            //
-            var dico = await DiscoveryClient.GetAsync("http://localhost:5000");
-
-            //token
-            var tokenClient = new TokenClient(dico.TokenEndpoint, "client", "secret");
-            var tokenresp = await tokenClient.RequestClientCredentialsAsync("api1");
-            if (tokenresp.IsError)
-            {
-                Console.WriteLine(tokenresp.Error);
-                return;
-
-            }
-
-            Console.WriteLine(tokenresp.Json);
-            Console.WriteLine("\n\n");
-
-
-            var client = new HttpClient();
-            client.SetBearerToken(tokenresp.AccessToken);
-
-            var resp = await client.GetAsync("http://localhost:5000/identity");
-            if (!resp.IsSuccessStatusCode)
-            {
-                Console.WriteLine(resp.StatusCode);
-            }
-            else
-            {
-                var content = await resp.Content.ReadAsStringAsync();
-                Console.WriteLine(JArray.Parse(content));
-            }
-
-
         }
     }
 }

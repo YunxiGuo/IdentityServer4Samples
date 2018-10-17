@@ -782,11 +782,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\github\\IdentityServer4Samples\\ThirdLibrariyDemo\\ThirdLibrariyDemo.csproj",
-      "projectName": "ThirdLibrariyDemo",
-      "projectPath": "H:\\github\\IdentityServer4Samples\\ThirdLibrariyDemo\\ThirdLibrariyDemo.csproj",
+      "projectUniqueName": "D:\\MyGitLab\\IdentityServer4Samples\\ThirdLibrariyDemo\\Client.csproj",
+      "projectName": "Client",
+      "projectPath": "D:\\MyGitLab\\IdentityServer4Samples\\ThirdLibrariyDemo\\Client.csproj",
       "packagesPath": "C:\\Users\\guoyunxi\\.nuget\\packages\\",
-      "outputPath": "H:\\github\\IdentityServer4Samples\\ThirdLibrariyDemo\\obj\\",
+      "outputPath": "D:\\MyGitLab\\IdentityServer4Samples\\ThirdLibrariyDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
